@@ -1,3 +1,4 @@
 NO.REG	:1820010070
 Nama	:FaridZuhdiHizbullah
 Jurusan : TI-PNJ
+Angkatan:2018
